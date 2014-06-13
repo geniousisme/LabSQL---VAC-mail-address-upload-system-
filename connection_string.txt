@@ -1,1 +1,0 @@
-Provider=sqloledb;Server=140.93.100.252;User ID=vac103;Password=vac@123456;Database=HR_VAC;
