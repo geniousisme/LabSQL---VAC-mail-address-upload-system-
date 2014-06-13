@@ -1,0 +1,53 @@
+[AB_Cache_{6CC8D1A5-6A5F-48E3-BD16-2728452263DC}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "4effffdee87bbe4cc1767b2dc5a88019"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/vacuser/Desktop/builds/mail_number_"
+Cache_GenFile[0][Path] Line0002 = "upload_system_dev_140613/mail_number_upload_"
+Cache_GenFile[0][Path] Line0003 = "system_dev_140613/mail_number_upload_system_"
+Cache_GenFile[0][Path] Line0004 = "dev_140613.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/vacuser/Desktop/builds/mail_number_"
+Cache_GenFile[1][Path] Line0002 = "upload_system_dev_140613/mail_number_upload_"
+Cache_GenFile[1][Path] Line0003 = "system_dev_140613/mail_number_upload_system_"
+Cache_GenFile[1][Path] Line0004 = "dev_140613.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/vacuser/Desktop/builds/mail_number_"
+Cache_GenFile[2][Path] Line0002 = "upload_system_dev_140613/mail_number_upload_"
+Cache_GenFile[2][Path] Line0003 = "system_dev_140613/mail_number_upload_system_"
+Cache_GenFile[2][Path] Line0004 = "dev_140613.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{215CCFF9-9913-4EFC-9299-F6B6B4A1C90F}"
+Cache_GenGUID[1][String] = "{84B8EDFB-EDB0-4C24-9615-A9CC5DC623A4}"
+Cache_GenGUID[2][String] = "{2BBBC22F-4DC8-4946-80EC-EC4371368559}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/vacuser/Desktop/builds/mail_number_u"
+Cache_OutputDir[Path] Line0002 = "pload_system_dev_140613/mail_number_upload_sy"
+Cache_OutputDir[Path] Line0003 = "stem_dev_140613"
+
+[AB_Cache_{16B3374F-A7AD-4DE3-97F5-46D58F82FECF}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "4effffdee87bbe4cc1767b2dc5a88019"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/vacuser/Desktop/builds/mail_number_"
+Cache_GenFile[0][Path] Line0002 = "upload_system_dev_140613/mail_number_upload_"
+Cache_GenFile[0][Path] Line0003 = "system_dev_140613/mail_number_upload_system_"
+Cache_GenFile[0][Path] Line0004 = "dev_140613.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/vacuser/Desktop/builds/mail_number_"
+Cache_GenFile[1][Path] Line0002 = "upload_system_dev_140613/mail_number_upload_"
+Cache_GenFile[1][Path] Line0003 = "system_dev_140613/mail_number_upload_system_"
+Cache_GenFile[1][Path] Line0004 = "dev_140613.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/vacuser/Desktop/builds/mail_number_"
+Cache_GenFile[2][Path] Line0002 = "upload_system_dev_140613/mail_number_upload_"
+Cache_GenFile[2][Path] Line0003 = "system_dev_140613/mail_number_upload_system_"
+Cache_GenFile[2][Path] Line0004 = "dev_140613.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{215CCFF9-9913-4EFC-9299-F6B6B4A1C90F}"
+Cache_GenGUID[1][String] = "{84B8EDFB-EDB0-4C24-9615-A9CC5DC623A4}"
+Cache_GenGUID[2][String] = "{2BBBC22F-4DC8-4946-80EC-EC4371368559}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/vacuser/Desktop/builds/mail_number_u"
+Cache_OutputDir[Path] Line0002 = "pload_system_dev_140613/mail_number_upload_sy"
+Cache_OutputDir[Path] Line0003 = "stem_dev_140613"
+
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "70,43,470,532"
+
